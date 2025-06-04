@@ -29,3 +29,9 @@
 3. Implementacja cieni
 4. Implementacja przeźroczystości
 5. Dodatkowy obiekt na scenie
+## Laboratorium 6  
+1. Erozja
+2. Dylatacja
+3. Domknięcie
+4. Otwarcie
+5. Gradient i operator Laplace'a
